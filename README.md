@@ -1,3 +1,5 @@
+** The original repo can be found on Amanda Huang's github profile — https://github.com/amandahuarng/VisAid.git
+
 # VisAid
 A tool that allows users to better understand their surroundings using image processing and speech recognition. Utilizing both Google Cloud Vision API and Houndify's Speech-To-Text API, VisAids lets users ask it questions about their environment and will respond with an answer. It does this by leveraging OpenCV to capture images and by using Text-To-Speech to respond to user queries.
 
